@@ -9,6 +9,7 @@
     </provider>
 
 		<class>com.skilldistillery.jobtracker.entities.Job</class>
+		<class>com.skilldistillery.jobtracker.entities.User</class>
 
 
 		
